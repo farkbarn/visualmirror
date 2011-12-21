@@ -1,0 +1,9 @@
+* conectar repositorios (debmirror)
+* crear interfáz sencilla
+* elegir en que sitio será almacenado el repositorios
+* al momento de comenzar la descarga en el sitio indicado se debe verificar si es suficiente el espacio
+* en caso de caerse la conexion se debe hacer que el programa vuelva a intentar la reconexion
+* crear un instalador
+* preguntar por cual rama se desea bajar el mirror
+* preguntar y mostrar una lista de mirror's oficiales y capacidad para poder indicar uno personalizado
+* se debe conectar via http, ftp.
